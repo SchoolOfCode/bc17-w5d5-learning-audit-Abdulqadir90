@@ -27,10 +27,11 @@ CSS Concepts
 -Responsive Design (ORANGE)
 
 *PLAN
-https://www.codecademy.com/learn/learn-css-introduction
-https://flexboxfroggy.com/
-https://cssgridgarden.com/
-https://www.frontendmentor.io/ --> to create some landing pages with HTML and CSS
+-https://www.codecademy.com/learn/learn-css-introduction
+-https://flexboxfroggy.com/
+-https://cssgridgarden.com/
+-https://www.frontendmentor.io/ --> to create some landing pages with HTML and CSS
+-https://www.youtube.com/@KevinPowell // ccs wizard on youtube
 
 JavaScript Concepts
 
